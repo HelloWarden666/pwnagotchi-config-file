@@ -1,5 +1,8 @@
 # pwnagotchi-config-file
 this is a pwnagochi config file.
-<p>
-  <img src="gif/source.gif" title="pwnagochi official website" href="https://pwnagotchi.ai/" />
-</p>
+
+<div>
+  <a hraf="https://pwnagotchi.ai/">
+    <img src="gif/source.gif" title="pwnagotchi offcial website" alt="pwnagotchi" />
+  </a>
+</div>
